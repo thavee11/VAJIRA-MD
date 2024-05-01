@@ -14,7 +14,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD:AbsurdCrayons"
         },
         "NUMBER_212_BLOCK": {
             "description": "dont change this",
@@ -37,14 +37,14 @@
             "value": "EN"      
         },
         "OWNER-NAME": {
-            "description": "put Your name herd",
+            "description": "ZEUS",
             "required": true,
-            "value": "Vajira"      
+            "value": "ZEUS"      
         },
         "OWNER_NUMBER": {
-            "description": "put your number here",
+            "description": "94717945564",
             "required": true,
-            "value": "94719199757"
+            "value": "94717945564"
         },
         "IMAGE": {
             "description": "Put bot image url here",
